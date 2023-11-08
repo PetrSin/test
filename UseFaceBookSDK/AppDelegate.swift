@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let mainVC = ViewController()
         window?.rootViewController = mainVC
         window?.makeKeyAndVisible()
-        
+        print("asdgasg")
         return true
     }
 }
